@@ -1,4 +1,3 @@
-Certainly! A good README file helps users understand your code and how to use it. Here's a simple README template for your code:
 
 ```markdown
 # Fun Fact Generator
